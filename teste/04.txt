@@ -1,0 +1,6 @@
+a) 9 (Sequência dos números ímpares)
+b) 128 (Sequência das potências de 2)
+c) 49 (Sequência dos quadrados dos números naturais)
+d) 100 (Cada termo é 4 vezes o quadrado de sua posição)
+e) 13 (Sequência de Fibonacci)
+f) 20 (Diferenças entre os termos diminuem em 1 a cada passo)
